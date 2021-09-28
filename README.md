@@ -28,3 +28,7 @@ This application accepts a target list file and optional excluded addresses file
 | ![](plc-tags.png) | 
 |:--:|
 | *IoTVAS augments an PLC device in Qualys* |
+
+The following video shows usage of this application:
+
+[![IoTVAS & Qualys Integration Demo](https://img.youtube.com/vi/XossTJ9kPd0/hqdefault.jpg)](https://www.youtube.com/watch?v=XossTJ9kPd0)
