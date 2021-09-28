@@ -1,0 +1,112 @@
+2021-09-28 14:49:11,192 - INFO - IoTVAS parent tag id is 83929199
+2021-09-28 14:49:11,206 - INFO - Starting nmap scan:  /usr/bin/nmap -oX - -vvv --stats-every 1s -sSU -p U:161,T:- --top-ports 1000 --script iotvas-features.nse 192.168.1.0/24   
+2021-09-28 14:49:11,487 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:11,488 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:11,503 - INFO - Task ARP Ping Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:12,220 - INFO - Task ARP Ping Scan (started): ETC: 1632833362 DONE: 9.22%
+2021-09-28 14:49:13,234 - INFO - Task ARP Ping Scan (started): ETC: 1632833359 DONE: 25.88%
+2021-09-28 14:49:14,305 - INFO - Task ARP Ping Scan (started): ETC: 1632833357 DONE: 52.74%
+2021-09-28 14:49:15,222 - INFO - Task ARP Ping Scan (started): ETC: 1632833355 DONE: 100.00%
+2021-09-28 14:49:15,231 - INFO - Task ARP Ping Scan (ended): ETC: 1632833355 DONE: 100.00%
+2021-09-28 14:49:15,263 - INFO - Task Parallel DNS resolution of 255 hosts. (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:15,280 - INFO - Task Parallel DNS resolution of 255 hosts. (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:15,380 - INFO - Task Parallel DNS resolution of 1 host. (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:15,381 - INFO - Task Parallel DNS resolution of 1 host. (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:15,381 - INFO - Task SYN Stealth Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:16,436 - INFO - Task SYN Stealth Scan (started): ETC: 1632833358 DONE: 33.94%
+2021-09-28 14:49:17,223 - INFO - Task SYN Stealth Scan (started): ETC: 1632833360 DONE: 41.45%
+2021-09-28 14:49:18,226 - INFO - Task SYN Stealth Scan (started): ETC: 1632833361 DONE: 46.38%
+2021-09-28 14:49:19,221 - INFO - Task SYN Stealth Scan (started): ETC: 1632833363 DONE: 51.69%
+2021-09-28 14:49:20,223 - INFO - Task SYN Stealth Scan (started): ETC: 1632833364 DONE: 57.59%
+2021-09-28 14:49:21,223 - INFO - Task SYN Stealth Scan (started): ETC: 1632833364 DONE: 63.98%
+2021-09-28 14:49:22,221 - INFO - Task SYN Stealth Scan (started): ETC: 1632833365 DONE: 70.92%
+2021-09-28 14:49:23,222 - INFO - Task SYN Stealth Scan (started): ETC: 1632833365 DONE: 78.95%
+2021-09-28 14:49:24,223 - INFO - Task SYN Stealth Scan (started): ETC: 1632833365 DONE: 87.39%
+2021-09-28 14:49:25,222 - INFO - Task SYN Stealth Scan (started): ETC: 1632833366 DONE: 93.36%
+2021-09-28 14:49:26,223 - INFO - Task SYN Stealth Scan (started): ETC: 1632833366 DONE: 99.04%
+2021-09-28 14:49:26,533 - INFO - Task SYN Stealth Scan (ended): ETC: 1632833366 DONE: 99.04%
+2021-09-28 14:49:26,562 - INFO - Task UDP Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:26,806 - INFO - Task UDP Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:26,839 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:27,242 - INFO - Task NSE (started): ETC: 1632833368 DONE: 42.86%
+2021-09-28 14:49:28,240 - INFO - Task NSE (started): ETC: 1632833371 DONE: 42.86%
+2021-09-28 14:49:29,247 - INFO - Task NSE (started): ETC: 1632833371 DONE: 57.14%
+2021-09-28 14:49:30,254 - INFO - Task NSE (started): ETC: 1632833373 DONE: 57.14%
+2021-09-28 14:49:31,262 - INFO - Task NSE (started): ETC: 1632833375 DONE: 57.14%
+2021-09-28 14:49:32,270 - INFO - Task NSE (started): ETC: 1632833374 DONE: 71.43%
+2021-09-28 14:49:33,227 - INFO - Task NSE (started): ETC: 1632833376 DONE: 71.43%
+2021-09-28 14:49:34,235 - INFO - Task NSE (started): ETC: 1632833377 DONE: 71.43%
+2021-09-28 14:49:35,240 - INFO - Task NSE (started): ETC: 1632833379 DONE: 71.43%
+2021-09-28 14:49:36,246 - INFO - Task NSE (started): ETC: 1632833380 DONE: 71.43%
+2021-09-28 14:49:37,254 - INFO - Task NSE (started): ETC: 1632833379 DONE: 85.71%
+2021-09-28 14:49:38,260 - INFO - Task NSE (started): ETC: 1632833380 DONE: 85.71%
+2021-09-28 14:49:39,268 - INFO - Task NSE (started): ETC: 1632833381 DONE: 85.71%
+2021-09-28 14:49:40,225 - INFO - Task NSE (started): ETC: 1632833382 DONE: 85.71%
+2021-09-28 14:49:41,233 - INFO - Task NSE (started): ETC: 1632833384 DONE: 85.71%
+2021-09-28 14:49:42,241 - INFO - Task NSE (started): ETC: 1632833385 DONE: 85.71%
+2021-09-28 14:49:43,233 - INFO - Task NSE (started): ETC: 1632833386 DONE: 85.71%
+2021-09-28 14:49:44,238 - INFO - Task NSE (started): ETC: 1632833387 DONE: 85.71%
+2021-09-28 14:49:45,188 - INFO - Task NSE (ended): ETC: 1632833387 DONE: 85.71%
+2021-09-28 14:49:45,236 - INFO - Task SYN Stealth Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,251 - INFO - Task SYN Stealth Scan (started): ETC: 1632833385 DONE: 1.00%
+2021-09-28 14:49:45,271 - INFO - Task SYN Stealth Scan (ended): ETC: 1632833385 DONE: 1.00%
+2021-09-28 14:49:45,302 - INFO - Task UDP Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,334 - INFO - Task UDP Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,366 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,367 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,370 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,370 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,371 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:49:45,393 - INFO - Task NSE (ended): ETC: 0 DONE: 100%
+2021-09-28 14:49:45,393 - INFO - Nmap scan completed
+2021-09-28 14:49:45,556 - INFO - device maker and model not found for 192.168.1.1
+2021-09-28 14:49:58,604 - INFO - device maker and model not found for 192.168.1.20
+2021-09-28 14:49:58,646 - INFO - device maker and model not found for 192.168.1.47
+2021-09-28 14:49:58,695 - INFO - device maker and model not found for 192.168.1.64
+2021-09-28 14:49:58,738 - INFO - device maker and model not found for 192.168.1.89
+2021-09-28 14:49:58,789 - INFO - device maker and model not found for 192.168.1.65
+2021-09-28 14:51:26,882 - INFO - IoTVAS parent tag id is 83929199
+2021-09-28 14:51:26,888 - INFO - Starting nmap scan:  /usr/bin/nmap -oX - -vvv --stats-every 1s -sSU -p U:161,T:- --top-ports 1000 --script iotvas-features.nse 192.168.1.8    
+2021-09-28 14:51:27,160 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,162 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,173 - INFO - Task ARP Ping Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,363 - INFO - Task ARP Ping Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,395 - INFO - Task Parallel DNS resolution of 1 host. (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,403 - INFO - Task Parallel DNS resolution of 1 host. (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:27,404 - INFO - Task SYN Stealth Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:28,598 - INFO - Task SYN Stealth Scan (started): ETC: 1632833492 DONE: 19.35%
+2021-09-28 14:51:28,900 - INFO - Task SYN Stealth Scan (started): ETC: 1632833489 DONE: 55.30%
+2021-09-28 14:51:29,295 - INFO - Task SYN Stealth Scan (ended): ETC: 1632833489 DONE: 55.30%
+2021-09-28 14:51:29,330 - INFO - Task UDP Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:29,567 - INFO - Task UDP Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:29,599 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:30,198 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:30,242 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:51:30,243 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:30,244 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:51:30,269 - INFO - Task NSE (ended): ETC: 0 DONE: 100%
+2021-09-28 14:51:30,269 - INFO - Nmap scan completed
+2021-09-28 14:51:34,442 - INFO - Added tag Vendor: HP Development Company, L.P. to asset id 34334540
+2021-09-28 14:51:36,521 - INFO - Added tag Model: HP LaserJet Pro MFP M148dw Printer to asset id 34334540
+2021-09-28 14:51:38,474 - INFO - Added tag Type: Printer/Scanner/Fax to asset id 34334540
+2021-09-28 14:55:39,043 - INFO - IoTVAS parent tag id is 83929199
+2021-09-28 14:55:39,053 - INFO - Starting nmap scan:  /usr/bin/nmap -oX - -vvv --stats-every 1s -sSU -p U:161,T:- --top-ports 1000 --script iotvas-features.nse 192.168.1.8    
+2021-09-28 14:55:39,324 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,324 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,336 - INFO - Task ARP Ping Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,475 - INFO - Task ARP Ping Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,506 - INFO - Task Parallel DNS resolution of 1 host. (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,512 - INFO - Task Parallel DNS resolution of 1 host. (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:39,512 - INFO - Task SYN Stealth Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:40,726 - INFO - Task SYN Stealth Scan (started): ETC: 1632833745 DONE: 17.55%
+2021-09-28 14:55:41,065 - INFO - Task SYN Stealth Scan (started): ETC: 1632833743 DONE: 54.17%
+2021-09-28 14:55:41,450 - INFO - Task SYN Stealth Scan (ended): ETC: 1632833743 DONE: 54.17%
+2021-09-28 14:55:41,482 - INFO - Task UDP Scan (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:41,717 - INFO - Task UDP Scan (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:41,746 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:42,297 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:42,366 - INFO - Task NSE (started): ETC: 0 DONE: 0%
+2021-09-28 14:55:42,367 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:42,368 - INFO - Task NSE (ended): ETC: 0 DONE: 0%
+2021-09-28 14:55:42,390 - INFO - Task NSE (ended): ETC: 0 DONE: 100%
+2021-09-28 14:55:42,390 - INFO - Nmap scan completed
