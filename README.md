@@ -4,6 +4,8 @@ This repository hosts the [IoTVAS](https://firmalyzer.com/iotvas-api) connector 
 * accurately identify IoT/connected devices and their vulnerabilities in the firmware code level
 * track and manage discontinued, outdated and vulnerable devices from within the Qualys platform
 
+For more infromation on this application, please visit [this blog post](https://firmalyzer.com/posts/iotvas_qualys_integration.html).
+
 # Installation
 Clone the repository content to a local folder and issue the following commands:
 ```
